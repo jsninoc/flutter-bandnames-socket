@@ -2,6 +2,7 @@
     package="com.example.band_name">
    <application
         android:label="band_name"
+        android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
